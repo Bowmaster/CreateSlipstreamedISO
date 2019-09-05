@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-	<cpq_install version="1.0">
-		<inf_information>
-			<inf_file service_name="SmartPqi" type="PNP" filename="SmartPqi.inf"/>
-		</inf_information>
-	</cpq_install>
